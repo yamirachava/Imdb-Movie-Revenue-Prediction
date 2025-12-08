@@ -1,4 +1,4 @@
-# Imdb-Movie-Revenue-Prediction
+# Imdb Movie Revenue Prediction
 This project analyzes relationships between movie budgets, genres, and box office revenue using Python and historical data. It applies exploratory data analysis, feature engineering, and regression modeling to assess genre performance and generate data-driven insights for production and budgeting decisions.
 
 Objective
